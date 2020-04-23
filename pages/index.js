@@ -17,11 +17,7 @@ const Home = () => (
         This is just a tribute to the greatest app in the world.
       </p>
 
-      <div className="grid">
-        <a href="https://nextjs.org/docs" className="card">
-          <h3>Documentation &rarr;</h3>
-          <p>Find in-depth information about Next.js features and API.</p>
-        </a>
+      
 
         <a href="https://nextjs.org/learn" className="card">
           <h3>Learn &rarr;</h3>
